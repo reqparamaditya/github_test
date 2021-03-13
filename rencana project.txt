@@ -4,6 +4,8 @@
 3. Belajar Bootstrap
 4. Belajar PHP
 5. Belajar Javascript
+6. Belajar Laravel
+7. Belajar Sass
 
 - Programming :
 1. Belajar C++
